@@ -7,3 +7,10 @@ Countdown Timer to Super Bowl 57, built using vanilla JS. Part of JS course on Y
 * Basic JavaScript
 * Frontend Web Development
 * Project Design
+
+# Usage
+
+```
+git clone https://github.com/prasoontandon/SB-Countdown.git
+open index.html
+```
