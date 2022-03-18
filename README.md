@@ -1,6 +1,6 @@
 # SB-Countdown
 
-Countdown Timer to Super Bowl 57, built using vanilla JS. Built while learning JS on Youtube by [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
+Countdown Timer to Super Bowl 57, built using vanilla JS. Built while learning JS on Youtube. Course by [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
 
 # What I Learned
 
